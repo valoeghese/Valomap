@@ -1,0 +1,17 @@
+.gradle/
+*-merged.jar
+*-mapped.jar
+*-intermediary.jar
+*.DS_Store
+build/
+out/
+mappings_official/
+mappings/
+stitch.jar
+
+# idea
+.idea/
+*.iml
+*.iws
+*.ipr
+*.jar
